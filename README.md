@@ -1,5 +1,6 @@
 # Rock-Paper-Scissor-Game
-Made using python
+[![Run on Replit](https://replit.com/badge/github/b97958079-star/Rock-Paper-Scissor-Game)](https://replit.com/new/github/b97958079-star/Rock-Paper-Scissor-Game)
+
 🎮 Rock Paper Scissors — Python
 
 A simple and fun Rock-Paper-Scissors game written in Python.
